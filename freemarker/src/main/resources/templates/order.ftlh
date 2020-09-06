@@ -50,8 +50,8 @@
         </tbody>
     </table>
     <div class="flex flex-row-reverse p-5">
-        <h2 class="font-medium  bg-gray-200 p-2 rounded">Grand Total: <span class="text-green-600"
-            >${orderEntry.payment.amount}</span>
+        <h2 class="font-medium  bg-gray-200 p-2 rounded">
+            Grand Total: <span class="text-green-600">${orderEntry.payment.amount}</span>
         </h2>
     </div>
     <h2 class="text-xl font-bold">Payment Details</h2>
